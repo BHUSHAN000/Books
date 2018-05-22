@@ -1,0 +1,17 @@
+git init
+
+git add abc.txt
+
+git commit -m "Message"
+
+git config --global user.name "BHUSHAN PAWAR"
+
+git remote add origin https://github.com/BHUSHAN000/Hadoo
+p-1-MultiNode.git
+
+git push -u origin master
+
+
+USERNAME- BHUSHAN000
+PASSWORD- sparta29
+
